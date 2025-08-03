@@ -5,6 +5,7 @@ Looking into possible replacements for this since create-react-app is deprecated
 
 ## Available Scripts
 
+
 In the project directory, you can run:
 
 ### `npm start`
