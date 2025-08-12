@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Looking into possible replacements for this since create-react-app is deprecated now officially.
+**Looking into possible replacements for this since create-react-app is deprecated now officially**.
 
 ## Available Scripts
 
